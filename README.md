@@ -24,7 +24,7 @@ Using [Figma](https://www.figma.com/) I created a wireframe and a flex box layou
 - Slick UI
 - High quality audio 
 - Rain, Ocean and White noise dial
-- Social link to each Youtube channal 
+- Social link to each Youtube channel 
 
 ## Tools 🛠️
 
