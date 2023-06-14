@@ -149,7 +149,7 @@ function App() {
       "https://www.youtube.com/c/CHILLAF"
     );
     setLivestream(
-      "https://www.youtube.com/watch?v=7bSlyM1allk&ab_channel=CHILLAF"
+      "https://www.youtube.com/watch?v=Vo-2noOnBcY"
     );
     playLiveStream(true);
     setPauseScreen("unpauseScreen");
