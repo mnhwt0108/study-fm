@@ -21,7 +21,7 @@ function App() {
   const [livestream, playLiveStream] = useState(false);
   const [pauseScreen, setPauseScreen] = useState("pauseScreen");
   const [currentLivestream, setLivestream] = useState(
-    "https://www.youtube.com/watch?v=5qap5aO4i9A&ab_channel=LofiGirl"
+    "https://www.youtube.com/watch?v=jfKfPfyJRdk&ab_channel=LofiGirl"
   );
 
   const [stationName, setStationName] = useState("LofiGirl");
@@ -103,7 +103,7 @@ function App() {
       "https://www.youtube.com/channel/UCv7qaGzuEfLhKxAZf4eZONg"
     );
     setLivestream(
-      "https://www.youtube.com/watch?v=aLqc8TdoLJ0"
+      "https://www.youtube.com/watch?v=7bSlyM1allk"
     );
     playLiveStream(true);
     setPauseScreen("unpauseScreen");
@@ -127,13 +127,13 @@ function App() {
   };
 
   const HFiveGOneFunc = () => {
-    setVideo("//www.youtube.com/embed/lniKA4QHuxg?autoplay=1&mute=1&start=1");
+    setVideo("//www.youtube.com/embed/watch?v=8ca9VSU6TAE?autoplay=1&mute=1&start=1");
     setStationName("H5G1 Music");
     setYoutubeChannal(
       "https://www.youtube.com/channel/UCIPy2w-XdvaU73L3nAK1-0g"
     );
     setLivestream(
-      "https://www.youtube.com/watch?v=-9gEgshJUuY&ab_channel=lofigeek"
+      "https://www.youtube.com/watch?v=_2sGsqzFXks"
     );
     playLiveStream(true);
     setPauseScreen("unpauseScreen");
@@ -177,7 +177,7 @@ function App() {
     setStationName("Chilled Cow");
     setYoutubeChannal("https://www.youtube.com/c/LofiGirl");
     setLivestream(
-      "https://www.youtube.com/watch?v=DWcJFNfaw9c&ab_channel=LofiGirl"
+      "https://www.youtube.com/watch?v=rUxyKA_-grg"
     );
     playLiveStream(true);
     setPauseScreen("unpauseScreen");
@@ -191,7 +191,7 @@ function App() {
     setStationName("theJazz Cafe");
     setYoutubeChannal("https://www.youtube.com/c/TheJazzHopCaf%C3%A9");
     setLivestream(
-      "https://www.youtube.com/watch?v=-5KAN9_CzSA&ab_channel=STEEZYASFUCK"
+      "https://www.youtube.com/watch?v=lP26UCnoH9s"
     );
     playLiveStream(true);
     setPauseScreen("unpauseScreen");
@@ -201,13 +201,13 @@ function App() {
   };
 
   const Spinnin = () => {
-    setVideo("//www.youtube.com/embed/N65Jb683pXQ?autoplay=1&mute=1&start=0");
+    setVideo("//www.youtube.com/embed/jJ5DAtigJbY?autoplay=1&mute=1&start=0");
     setStationName("Spinnin' Records");
     setYoutubeChannal(
       "https://www.youtube.com/channel/UCpDJl2EmP7Oh90Vylx0dZtA"
     );
     setLivestream(
-      "https://www.youtube.com/watch?v=N65Jb683pXQ&ab_channel=Spinnin%27Records"
+      "https://www.youtube.com/watch?v=epaP2LCCuVE"
     );
     playLiveStream(true);
     setPauseScreen("unpauseScreen");
@@ -223,7 +223,7 @@ function App() {
       "https://www.youtube.com/channel/UCMmt12UKW571UWtJAgWkWqg"
     );
     setLivestream(
-      "https://www.youtube.com/watch?v=oVi5gtzTDx0&ab_channel=NiceGuys"
+      "https://www.youtube.com/watch?v=UMIg4JLoTBw&ab_channel=NiceGuys"
     );
     playLiveStream(true);
     setPauseScreen("unpauseScreen");
@@ -237,7 +237,7 @@ function App() {
     setStationName("AnimeVibe");
     setYoutubeChannal("https://www.youtube.com/c/AnimeVibe");
     setLivestream(
-      "https://www.youtube.com/watch?v=WDXPJWIgX-o&ab_channel=nostalgic"
+      "https://www.youtube.com/watch?v=RJ_XzzjVlFo"
     );
     playLiveStream(true);
     setPauseScreen("unpauseScreen");
